@@ -80,7 +80,7 @@ Formulates course scheduling as a CSP and solves it using three backtracking var
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-assignment.git
+git clone https://github.com/Kirthik1824/CSMI_17_AI_Assignment.git
 cd ai-assignment
 ```
 
