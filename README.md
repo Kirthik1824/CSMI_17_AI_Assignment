@@ -193,8 +193,8 @@ pip install -r requirements.txt
 ## 🎓 Academic Context
 
 **Course**: CSMI17 – Artificial Intelligence  
-**Institution**: [Your Institution Name]  
-**Semester**: [Your Semester]  
+**Institution**: NIT Tiruchirappalli
+**Semester**: 7
 
 ## 🤝 Contributing
 
@@ -213,8 +213,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**  
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
+- GitHub: [@Kirthik1824](https://github.com/Kirthik1824)
+- Email: kirthik.nitt@gmail.com
 
 ## 🙏 Acknowledgments
 
